@@ -10,13 +10,13 @@
     "imaging"
   ],
   "author": "Chris Hafey",
-  "homepage": "https://github.com/cornerstonejs/cornerstoneWADOImageLoader",
+  "homepage": "https://github.com/mako87/cornerstoneWADOImageLoader",
   "license": "MIT",
   "main": "./dist/cornerstoneWADOImageLoader.min.js",
   "module": "./dist/cornerstoneWADOImageLoader.min.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cornerstonejs/cornerstoneWADOImageLoader.git"
+    "url": "https://github.com/mako87/cornerstoneWADOImageLoader.git"
   },
   "scripts": {
     "cm": "npx git-cz",
