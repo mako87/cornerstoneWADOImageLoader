@@ -86,7 +86,7 @@
     "worker-loader": "^2.0.0"
   },
   "dependencies": {
-    "dicom-parser": "^1.8.3",
+    "dicom-parser": "mako87/dicomParser",
     "pako": "^1.0.10"
   },
   "husky": {
